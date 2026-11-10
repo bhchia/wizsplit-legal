@@ -21,7 +21,7 @@ The app does not give financial, tax, legal or accounting advice.
 
 ## 3. Use of the app
 
-You may use the app for your own personal, non-commercial use. Please don't copy, modify, reverse engineer (except where the law allows), resell or redistribute the app, or interfere with how it works. When you share a bill, you are responsible for what you send and for having the right to share the names it contains.
+The app is for adults: you must be 18 or older, or the age of majority where you live if that is higher, to use it. You may use the app for your own personal, non-commercial use. Please don't copy, modify, reverse engineer (except where the law allows), resell or redistribute the app, or interfere with how it works. When you share a bill, you are responsible for what you send and for having the right to share the names it contains.
 
 ## 4. Third-party services
 

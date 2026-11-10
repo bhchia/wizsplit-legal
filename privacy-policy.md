@@ -28,7 +28,7 @@ When you tap **Share**, the app prepares a text summary of the split and hands i
 
 ## 3. Crash reports (Firebase Crashlytics)
 
-If the app crashes, **Firebase Crashlytics** (a Google service) sends us a crash report: the error and where in the code it happened, device model, operating system version, app version, the time, and a random installation identifier (not your name or advertising ID). We use crash reports only to find and fix bugs. Crash reports are kept for 90 days. We don't use Google Analytics. Your bills, names and amounts are not part of a crash report.
+If the app crashes, **Firebase Crashlytics** (a Google service) sends us a crash report: the error and where in the code it happened, device model, operating system version, app version, the time, and a random installation identifier (not your name or advertising ID). Like any internet request, sending a report lets Google's servers see your device's IP address. We use crash reports only to find and fix bugs. Crash reports are kept for 90 days. We don't use Google Analytics. The app does not add your bills, the names you type or amounts to crash reports.
 
 **Legal basis (GDPR):** our legitimate interest in keeping the app working. See Firebase's privacy information: <https://firebase.google.com/support/privacy>
 
@@ -69,4 +69,4 @@ If we change this policy, we will update the effective date above and, for impor
 
 ## 12. Contact
 
-bitwigblazer — **bitwigblazer@gmail.com**
+bitwigblazer — **bitwigblazer@gmail.com**. This address is also our data protection contact (for example under Singapore's PDPA).
